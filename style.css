@@ -158,6 +158,7 @@ ul {
   }
   .card {
     width: 90%;
+    margin-top: 20px;
   }
 
   .card-text {
